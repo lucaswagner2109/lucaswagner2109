@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucaswagner2109
+- 👋 Hi, I’m Lucas.
 - 👀 I’m interested in Data Science and Tech
 - 🌱 I’m currently finishing my bachelors degree
 - 📫 How to reach me: lmw2109@gmail.com
